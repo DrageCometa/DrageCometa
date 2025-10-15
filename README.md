@@ -14,6 +14,7 @@
 • 🎮 En mis ratos libres, ¡me encanta jugar videojuegos!
 
 📈 Mis conocimientos
+
 🛠️ Actualmente aprendiendo 
 
 • Lenguajes: Python, JavaScript, C++
