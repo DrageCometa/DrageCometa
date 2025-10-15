@@ -1,4 +1,5 @@
-![Moi Banner]
+![Moi Banner](https://github.com/DrageCometa/images/blob/main/Banner%20para%20youtube%20espacial%20ilustrado%20violeta%20(1).png)
+
 ¡Holaa! Soy Moises Varela 👋
 
 ¡Bienvenido a mi espacio en GitHub! Soy estudiante de programación y aquí encontrarás mis proyectos, experimentos y un montón de código que se asemeje a un spagueti pero hecho con amor. 😅
