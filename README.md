@@ -12,6 +12,7 @@
 📈 Mis conocimientos
 🛠️ Actualmente aprendiendo 
 • Lenguajes: Python, JavaScript, C++
+
 💻 Dominio parcial y buen entendimiento 
 • Otros: N8N, Make, WordPress, Adobe After Effects, Seo, Automatizaciones, webhooks, Canva.
 
