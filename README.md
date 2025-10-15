@@ -4,9 +4,13 @@
 ¡Bienvenido a mi espacio en GitHub! Soy estudiante de programación y aquí encontrarás mis proyectos, experimentos y un montón de código que se asemeje a un spagueti pero hecho con amor. 😅
 
 🚀 Sobre mí 
+
 • 🌱 Actualmente aprendiendo Python, C++ y un poco de AI. 
+
 • 🔍 Apasionado por crear pogramas y estructuras utiles con líneas de código de facil comprension. 
+
 • 💡 Siempre buscando mejorar y aprender nuevas tecnologías. 
+
 • 🎮 En mis ratos libres, ¡me encanta jugar videojuegos!
 
 📈 Mis conocimientos
