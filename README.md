@@ -7,6 +7,9 @@
 🚀 Sobre mí 
 
 • 🌱 Actualmente aprendiendo Python, C++ y un poco de AI. 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
 
 • 🔍 Apasionado por crear pogramas y estructuras utiles con líneas de código de facil comprension. 
 
